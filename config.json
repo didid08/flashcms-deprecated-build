@@ -1,0 +1,12 @@
+{
+	"database" : {
+		"db_url" : "mongodb://localhost:27017/",
+		"db_user" : "root",
+		"db_pass" : "",
+		"db_name" : "flashcms"
+	},
+
+	"webserver" : {
+		"port" : 80
+	}
+}
